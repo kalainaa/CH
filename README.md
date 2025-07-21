@@ -1,1 +1,4 @@
-# scifi
+File Types 
+
+PDF CSV JSON PNG JPEG
+
